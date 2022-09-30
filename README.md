@@ -1,5 +1,5 @@
 # Movie Review Crud Application
- My first CRUD application using React, Node, Express, Axios and SQL (MySQL):
+ My first Full Stack CRUD application using React, Node, Express, Axios and SQL (MySQL):
  
  It's a basic page where you can create, read, update and delete movie reviews.
  
