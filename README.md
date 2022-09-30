@@ -37,7 +37,7 @@ npm install
 npm start
 ````
 
-OBS: The MySQL database need to be with:
+OBS: The MySQL database needs to be with:
   host: "localhost",
   user: "root",
   password: "system",
